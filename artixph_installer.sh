@@ -35,27 +35,27 @@ apt-get install -y bzip2 gzip coreutils screen curl unzip
 #===========================================
 
 # Link Hosting Kalian Untuk Ssh Vpn
-install="raw.githubusercontent.com/Matthewvpn-creator/vpn-server-installer/main/ssh"
+install="raw.githubusercontent.com/andresslacson1989/vpn-server-installer/main/ssh"
 # Link Hosting Kalian Untuk Sstp
-installn="raw.githubusercontent.com/Matthewvpn-creator/vpn-server-installer/main/sstp"
+installn="raw.githubusercontent.com/andresslacson1989/vpn-server-installer/main/sstp"
 # Link Hosting Kalian Untuk Ssr
-installnn="raw.githubusercontent.com/Matthewvpn-creator/vpn-server-installer/main/ssr"
+installnn="raw.githubusercontent.com/andresslacson1989/vpn-server-installer/main/ssr"
 # Link Hosting Kalian Untuk Shadowsocks
-installnnn="raw.githubusercontent.com/Matthewvpn-creator/vpn-server-installer/shadowsocks"
+installnnn="raw.githubusercontent.com/andresslacson1989/vpn-server-installer/shadowsocks"
 # Link Hosting Kalian Untuk Wireguard
-installnnnn="raw.githubusercontent.com/Matthewvpn-creator/vpn-server-installer/wireguard"
+installnnnn="raw.githubusercontent.com/andresslacson1989/vpn-server-installer/wireguard"
 # Link Hosting Kalian Untuk Xray
-installnnnnn="raw.githubusercontent.com/Matthewvpn-creator/vpn-server-installer/main/xray"
+installnnnnn="raw.githubusercontent.com/andresslacson1989/vpn-server-installer/main/xray"
 # Link Hosting Kalian Untuk Ipsec
-installnnnnnn="raw.githubusercontent.com/Matthewvpn-creator/vpn-server-installer/main/ipsec"
+installnnnnnn="raw.githubusercontent.com/andresslacson1989/vpn-server-installer/main/ipsec"
 # Link Hosting Kalian Untuk Backup
-installnnnnnnn="raw.githubusercontent.com/Matthewvpn-creator/vpn-server-installer/main/backup"
+installnnnnnnn="raw.githubusercontent.com/andresslacson1989/vpn-server-installer/main/backup"
 # Link Hosting Kalian Untuk Websocket
-installnnnnnnnn="raw.githubusercontent.com/Matthewvpn-creator/vpn-server-installer/main/websocket"
+installnnnnnnnn="raw.githubusercontent.com/andresslacson1989/vpn-server-installer/main/websocket"
 # Link Hosting Kalian Untuk Ohp
-installnnnnnnnnn="raw.githubusercontent.com/Matthewvpn-creator/vpn-server-installer/main/ohp"
+installnnnnnnnnn="raw.githubusercontent.com/andresslacson1989/vpn-server-installer/main/ohp"
 # link Hosting update
-installnnnnnnnnnn="raw.githubusercontent.com/Matthewvpn-creator/vpn-server-installer/main/update"
+installnnnnnnnnnn="raw.githubusercontent.com/andresslacson1989/vpn-server-installer/main/update"
 
 MYIP=$(wget -qO- ipinfo.io/ip);
 #echo "Checking VPS"
