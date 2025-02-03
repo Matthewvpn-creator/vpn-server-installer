@@ -34,7 +34,6 @@ apt-get update
 apt-get install -y bzip2 gzip coreutils screen curl unzip
 #===========================================
 
-
 # Link Hosting Kalian Untuk Ssh Vpn
 install="raw.githubusercontent.com/andresslacson1989/vpn-server-installer/main/ssh"
 # Link Hosting Kalian Untuk Sstp
@@ -70,7 +69,7 @@ MYIP=$(wget -qO- ipinfo.io/ip);
 #exit 0
 #fi
 clear
-rm -f setup.sh
+rm -f artixph_installer.sh
 clear
 if [ -f "/etc/xray/domain" ]; then
 echo "Script Already Installed"
@@ -93,7 +92,7 @@ wget https://${installnnnnnnn}/set-br.sh && chmod +x set-br.sh && ./set-br.sh
 # Update Menu
 wget https://${installnnnnnnnnnn}/getupdate.sh && chmod +x getupdate.sh && ./getupdate.sh
 # sslh fix
-wget https://raw.githubusercontent.com/andresslacson1989/vpn-server-installer/main/sslh-fix/sslh-fix.sh && chmod +x sslh-fix.sh && ./sslh-fix.sh
+wget https://raw.githubusercontent.com/Matthewvpn-creator/vpn-server-installer/main/sslh-fix/sslh-fix.sh && chmod +x sslh-fix.sh && ./sslh-fix.sh
 #restart service
 restart
 
