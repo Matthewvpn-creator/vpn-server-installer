@@ -70,7 +70,7 @@ MYIP=$(wget -qO- ipinfo.io/ip);
 #exit 0
 #fi
 clear
-rm -f artixph_installer.sh
+rm -f setup.sh
 clear
 if [ -f "/etc/xray/domain" ]; then
 echo "Script Already Installed"
