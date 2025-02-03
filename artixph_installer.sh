@@ -35,6 +35,8 @@ apt-get install -y bzip2 gzip coreutils screen curl unzip
 #===========================================
 
 # Link Hosting Kalian Untuk Ssh Vpn
+
+# Link Hosting Kalian Untuk Ssh Vpn
 install="raw.githubusercontent.com/andresslacson1989/vpn-server-installer/main/ssh"
 # Link Hosting Kalian Untuk Sstp
 installn="raw.githubusercontent.com/andresslacson1989/vpn-server-installer/main/sstp"
